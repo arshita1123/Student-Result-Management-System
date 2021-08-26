@@ -1,0 +1,2 @@
+# Student Result Management System
+ •	It is a system that can help educational institutes in managing their student related data. •	In this system, teachers/faculties can store the data related to their institution like the courses that they offer, the student data of their students, the result data of their students.  •	This system helps them to update, retrieve and manipulate the data efficiently along with required successful validations on the data •	The system, reduces many limitations of traditional paper-work system as it works on the basis of database connectivity. 
