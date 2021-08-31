@@ -121,7 +121,7 @@ class register_ui:
                         obj1.commit()
                         messagebox.showinfo("Message","Registeration Successful")
                         self.Clear()
-                        self.LogInWindow()
+                        
             except:
                 messagebox.showerror("Error","Unable to register",parent=self.root)
 
